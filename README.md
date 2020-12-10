@@ -18,7 +18,7 @@ I believe that learning is a lifelong enterprise, something I thoroughly enjoy, 
 
 * Email me if you have any questions about this site: keith@dashboardcalifornia.com
 
-![Dashboard California](https://www.dashboardamerica.com/assets/dashboardamerica-37b5793e387bfcb5843bb6f4a6c3746af53e9a99c9a13937e5fc74e2a2c8c3d9.png "Dashboard America")
+![Dashboard California](https://www.dashboardamerica.com/dbca-logo-thumb.gif "Dashboard America")
 
 
 <!--
