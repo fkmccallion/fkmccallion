@@ -1,4 +1,4 @@
-### A Little About Me 👋
+## A Little About Me 👋
 
 Hi, I’m Keith! I’m a software engineer who has worked in and out of the field for the last several years. In the beginning, much of my education was self-taught and through classes taken at UCLA Extension and Cal Lutheran. I received my first professional break with [Sensortech Systems, Inc.](https://sensortech.com/) as a web developer and created their first and second website iterations using the ASP.NET Framework and C#. Once the basic layout of the site was finished much of my time was spent creating content as a subject matter expert and on SEO (which is an entirely separate field in itself).
 
@@ -6,7 +6,7 @@ I loved developing the website so much that it was at that time I decided to mak
 
 I believe that learning is a lifelong enterprise, something I thoroughly enjoy, and a requirement as a developer.
 
-## How to reach me:
+### How to reach me:
 * [Linkedin](https://www.linkedin.com/in/f-keith-mccallion/)
 * [Twitter](https://twitter.com/DashboardCALI)
 * Personal Email: fkmccallion@gmail.com
