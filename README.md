@@ -12,7 +12,7 @@ I believe that learning is a lifelong enterprise, something I thoroughly enjoy, 
 * [Twitter](https://twitter.com/DashboardCALI)
 * Personal Email: fkmccallion@gmail.com
 
-## 🔭 I'm Currently Working On:
+## I'm Currently Working On 🔭
 
 [Dashboard America](https://www.dashboardamerica.com/) - A business directory that allows users to add businesses/organizations, products/services and events. It is used to help businesses improve their web presence, build links and improve SEO. This was a massive project so I have left it in open beta testing status as a minimum viable product. I will periodically upate. I've added Google AdSense to earn some passive income so I created a DBA (Dashboard California) and added it to my linkedin profile as my current position (self-employed). It is currenlty a private repo but I will probably make it public once I am employed.
 
