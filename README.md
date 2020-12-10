@@ -7,10 +7,18 @@ I loved developing the website so much that it was at that time I decided to mak
 I believe that learning is a lifelong enterprise, something I thoroughly enjoy, and a requirement as a developer.
 
 ### 📫 How to reach me:
+
 * [Linkedin](https://www.linkedin.com/in/f-keith-mccallion/)
 * [Twitter](https://twitter.com/DashboardCALI)
 * Personal Email: fkmccallion@gmail.com
 
+## 🔭 I'm currently working on:
+
+[Dashboard America](https://www.dashboardamerica.com/) - A business directory that allows users to add businesses/organizations, products/services and events. It is used to help businesses improve their web presence, build links and improve SEO. This was a massive project so I have left it in open beta testing status as a minimum viable product. I will periodically upate. I've added Google AdSense to earn some passive income so I created a DBA (Dashboard California) and added it to my linkedin profile as my current position (self-employed). It is currenlty a private repo but I will probably make it public once I am employed.
+
+![Dashboard California](https://www.dashboardamerica.com/assets/dashboardamerica-37b5793e387bfcb5843bb6f4a6c3746af53e9a99c9a13937e5fc74e2a2c8c3d9.png "Dashboard America")
+
+* Email me if you have any questions about this site: keith@dashboardcalifornia.com
 
 
 
