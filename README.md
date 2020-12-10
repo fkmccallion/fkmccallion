@@ -1,7 +1,10 @@
 ### A Little About Me 👋
-Hi, I’m Keith! I’m a software engineer who has worked in and out of the field for the last several years. In the beginning, much of my education was self-taught and through classes taken at UCLA Extension and Cal Lutheran. I got my first professional break with Sensortech Systems, Inc. as a web developer and created their first and second website iterations using the ASP.NET Framework and C#. Once the basic layout of the site was finished much of my time was spent creating content as a subject matter expert and on SEO (which is an entirely separate field in itself).
 
-I loved developing the website so much that it was at that time I decided to make it a career. I started an immersive software engineering bootcamp with the Flatiron School to gain a formal education in the field. As California shut down Sensortech due to the Covid-19 virus I found it to perfect opportunity to finish bootcamp and to begin my search for full-time work as a software engineer.
+Hi, I’m Keith! I’m a software engineer who has worked in and out of the field for the last several years. In the beginning, much of my education was self-taught and through classes taken at UCLA Extension and Cal Lutheran. I received my first professional break with [Sensortech Systems, Inc.](https://sensortech.com/) as a web developer and created their first and second website iterations using the ASP.NET Framework and C#. Once the basic layout of the site was finished much of my time was spent creating content as a subject matter expert and on SEO (which is an entirely separate field in itself).
+
+I loved developing the website so much that it was at that time I decided to make it a career. I started an immersive software engineering bootcamp with the [Flatiron School](https://flatironschool.com/) to gain a formal education in the field. As California shut down Sensortech due to the Covid-19 virus I found it to be the perfect opportunity to finish bootcamp and to begin my search for full-time work as a software engineer.
+
+I believe that learning is a lifelong enterprise, something I thoroughly enjoy, and a requirement as a developer.
 
 
 <!--
