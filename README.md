@@ -6,7 +6,7 @@ I loved developing the website so much that it was at that time I decided to mak
 
 I believe that learning is a lifelong enterprise, something I thoroughly enjoy, and a requirement as a developer.
 
-### How to reach me:
+### 📫 How to reach me:
 * [Linkedin](https://www.linkedin.com/in/f-keith-mccallion/)
 * [Twitter](https://twitter.com/DashboardCALI)
 * Personal Email: fkmccallion@gmail.com
